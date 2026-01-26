@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /gracias/
+Disallow: /checkout/
+Disallow: /wp-admin/
+
+# Sitemap location
+Sitemap: https://pantallassinculpa-dev.github.io/salto-digital/sitemap.xml
+
+# Crawl delay (opcional)
+Crawl-delay: 10
